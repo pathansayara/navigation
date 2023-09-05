@@ -1,0 +1,18 @@
+.navbar{
+    background-color: rgb(59, 59, 59);
+}
+
+.navbar .navbar-brand img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+.navbar ul li a{
+    color: white;
+    font-weight: 500;
+}
+
+.navbar ul li a.active{
+    color: rgb(67, 212, 231);
+}
